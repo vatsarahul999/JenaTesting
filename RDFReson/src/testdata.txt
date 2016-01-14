@@ -1,0 +1,6 @@
+@prefix : <http://vatsa.rahul.999@gmail.com#> .
+@prefix pre: <http://vatsa.rahul.999@gmail.com#> .
+:Rama pre:father :Sita .
+:Lakshman pre:father :Bharat .
+:Lakshman pre:brother :Rama .
+:Rama pre:brother :Lakshman .

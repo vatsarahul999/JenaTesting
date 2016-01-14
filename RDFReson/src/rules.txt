@@ -1,0 +1,3 @@
+@prefix pre: <http://vatsa.rahul.999@gmail.com#> .
+[rule1: (?f pre:father ?a) (?u pre:brother ?f) -> (?u pre:uncle ?a)]
+
